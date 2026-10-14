@@ -1,0 +1,1 @@
+"""MathWiz: handwritten equation solver."""
